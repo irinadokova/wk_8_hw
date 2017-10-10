@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Unica+One|Vollkorn');
+
+
+body {
+  background-image: url(../images/confectionary.png);
+}
+.container {
+  background-color: rgba(222,236,241,.5);
+  color: #475356;
+}
+
+.aside img {
+  margin-bottom: 5%;
+}
+
+a {
+  color: #475356;
+}
+
+h1,h3 {
+  font-family: 'Unica One', cursive;
+}
+
+h3 {
+  margin-bottom: .3em;
+}
+
+p {
+  font-family: 'Vollkorn', serif;
+}
